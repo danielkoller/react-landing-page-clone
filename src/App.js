@@ -488,6 +488,7 @@ const navFooterStyles = css`
   align-items: center;
   display: flex;
   justify-content: flex-end;
+  gap: 25px;
 `;
 
 const aNavFooterStyles = css`
